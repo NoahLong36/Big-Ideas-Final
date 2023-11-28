@@ -18,7 +18,5 @@ Permits of obstruction in neighborhoods in Pittsburgh
 Average daily traffic count in neighborhoods in Pittsburgh
 
 This repository is meant to find out the best neighborhood to ride a bike in, in Pittsburgh. FinalProject.ipynb shows our results.
-=======
-Car Traffic - James Toscano
->>>>>>> a549c29b56c9cf3ae59cff886fa38fd95d303b52
+
 
