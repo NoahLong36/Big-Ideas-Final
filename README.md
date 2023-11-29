@@ -8,13 +8,9 @@ Noah Long, James Toscano
 nel36@pitt.edu, jat292@pitt.edu
 
 ### DataSets 
-- Free Wifi (https://data.wprdc.org/dataset/public-wifi-locations) [Noah Long]
-- Free accessible wifi locations in Pittsburgh
 
-
-- ZipCodes (https://data.wprdc.org/datastore/dump/0c781f02-2bb9-4d0c-9c45-879bde957f34) [Noah Long]
-- Allegheny Zipcodes to help find neighborhood names in other datasets
-
+- Arrests (https://data.wprdc.org/datastore/dump/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f) [Noah Long]
+- Records of all arrests in Pittsburgh and the surrounding area
 
 - Obstruction Permits (https://data.wprdc.org/dataset/right-of-way-permits) [James Toscano]
 - Permits of obstruction in neighborhoods in Pittsburgh
